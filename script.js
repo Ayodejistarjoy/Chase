@@ -27,10 +27,10 @@ const Submit = () => {
 const data = [
 
     {
-        date: "sep 5 2023",
+        date: "Sept, 5 2023",
         history: [
             {
-                time:  "9:589am",
+                time:  "9:59am",
                 card: "MasterCard",
                 action: "(...5483)",
                 amount: "100.00",
